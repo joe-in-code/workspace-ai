@@ -1,2 +1,2 @@
-# workspace-ai
-Workspace AI - One Workspace. Infinite Possibilities.
+# appdeck
+AppDeck - One Workspace. Infinite Possibilities.
